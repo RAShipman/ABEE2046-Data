@@ -149,3 +149,52 @@ def home_demand(appliances, residents, lighting_kWh=715):
                               irradiance.to_numpy(), by_appliance=True)
     demand.index.name = "Time (UTC)"
     return demand
+
+
+# ---------------------------------------------------------------------------------------------
+# Week 2: testing the model against one home's meters
+
+
+def end_uses(demand):
+    """Group the model's hourly demand into the end uses that a home's circuit meters record.
+
+    demand: the table from home_demand()
+    Returns a DataFrame with one row for each hour and three columns (kWh in the hour):
+      'lighting'  the lights
+      'cooking'   the oven and the hob
+      'sockets'   everything else, which is plugged into sockets
+    """
+    cooking = demand[["OVEN", "HOB"]].sum(axis=1)
+    sockets = demand.drop(columns=["LIGHTING", "OVEN", "HOB"]).sum(axis=1)
+    return pd.DataFrame({"lighting": demand["LIGHTING"], "cooking": cooking, "sockets": sockets})
+
+
+def measured_monthly(home):
+    """Measured electricity of one Trent Basin home in each month of 2022, by end use.
+
+    home: a home label, such as 'Home 22'
+    Returns a DataFrame with one row for each month (labelled by its first day) and the columns (kWh):
+      'lighting', 'cooking', 'sockets'  the home's circuit meters
+      'other'    electricity that is not on a monitored circuit (the boiler and other fixed equipment)
+      'total'    the whole home: the four columns above added together
+      'hours'    the number of hours in the month
+    """
+    table = pd.read_csv(f"{DATA_URL}/Home_Circuits_2022_Monthly.csv", parse_dates=["month"])
+    table = table[table["home"] == home]
+    if len(table) == 0:
+        raise ValueError(f"No measurements for {home!r}. Use a label such as 'Home 22'.")
+    table = table.set_index("month").drop(columns=["home", "coverage"])
+    table.columns = [c.replace("_kWh", "") for c in table.columns]
+    return table[["lighting", "cooking", "sockets", "other", "total", "hours"]]
+
+
+def measured_hourly(home):
+    """Measured electricity of one Trent Basin home in each hour of 2022 (kWh, times in UTC).
+
+    home: a home label, such as 'Home 22'
+    Returns a pandas Series. A few hours have no reading; these are left empty (NaN).
+    """
+    table = pd.read_csv(f"{DATA_URL}/Household_Electricity_2022_Hourly_Phase1.csv", index_col=0, parse_dates=True)
+    if home not in table.columns:
+        raise ValueError(f"No measurements for {home!r}. Use a label such as 'Home 22'.")
+    return table[home]
