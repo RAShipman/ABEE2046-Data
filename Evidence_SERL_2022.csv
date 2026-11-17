@@ -1,0 +1,451 @@
+figure,unit,time,weekday_weekend,segmented_by,segment,mean,standard_deviation
+Figure_48,kWh/day,Daily,both,num_occupants,1,4.935,3.319
+Figure_48,kWh/day,Daily,both,num_occupants,2,8.115,4.261
+Figure_48,kWh/day,Daily,both,num_occupants,3,9.453,4.611
+Figure_48,kWh/day,Daily,both,num_occupants,4,11.827,5.839
+Figure_48,kWh/day,Daily,both,num_occupants,5,13.887,7.464
+Figure_48,kWh/day,Daily,both,num_occupants,>=6,14.817,7.73
+Figure_48,kWh/m2/day,Daily,both,num_occupants,1,0.067,0.035
+Figure_48,kWh/m2/day,Daily,both,num_occupants,2,0.087,0.046
+Figure_48,kWh/m2/day,Daily,both,num_occupants,3,0.096,0.051
+Figure_48,kWh/m2/day,Daily,both,num_occupants,4,0.106,0.049
+Figure_48,kWh/m2/day,Daily,both,num_occupants,5,0.117,0.057
+Figure_48,kWh/m2/day,Daily,both,num_occupants,>=6,0.137,0.089
+Figure_48,kWh/person/day,Daily,both,num_occupants,1,4.935,3.319
+Figure_48,kWh/person/day,Daily,both,num_occupants,2,4.057,2.13
+Figure_48,kWh/person/day,Daily,both,num_occupants,3,3.151,1.537
+Figure_48,kWh/person/day,Daily,both,num_occupants,4,2.957,1.46
+Figure_48,kWh/person/day,Daily,both,num_occupants,5,2.777,1.493
+Figure_48,kWh/person/day,Daily,both,num_occupants,>=6,2.317,1.237
+Figure_70,kWh/h,00:00,both,num_occupants,1,0.159,0.125
+Figure_70,kWh/h,00:00,both,num_occupants,2,0.249,0.247
+Figure_70,kWh/h,00:00,both,num_occupants,3,0.306,0.281
+Figure_70,kWh/h,00:00,both,num_occupants,4,0.397,0.329
+Figure_70,kWh/h,00:00,both,num_occupants,5,0.484,0.402
+Figure_70,kWh/h,00:00,both,num_occupants,>=6,0.556,0.439
+Figure_70,kWh/h,00:00,both,num_occupants,No data,0.251,0.227
+Figure_70,kWh/h,00:30,both,num_occupants,1,0.145,0.119
+Figure_70,kWh/h,00:30,both,num_occupants,2,0.227,0.241
+Figure_70,kWh/h,00:30,both,num_occupants,3,0.277,0.28
+Figure_70,kWh/h,00:30,both,num_occupants,4,0.358,0.332
+Figure_70,kWh/h,00:30,both,num_occupants,5,0.451,0.421
+Figure_70,kWh/h,00:30,both,num_occupants,>=6,0.509,0.417
+Figure_70,kWh/h,00:30,both,num_occupants,No data,0.231,0.213
+Figure_70,kWh/h,01:00,both,num_occupants,1,0.136,0.123
+Figure_70,kWh/h,01:00,both,num_occupants,2,0.229,0.331
+Figure_70,kWh/h,01:00,both,num_occupants,3,0.279,0.364
+Figure_70,kWh/h,01:00,both,num_occupants,4,0.381,0.513
+Figure_70,kWh/h,01:00,both,num_occupants,5,0.44,0.501
+Figure_70,kWh/h,01:00,both,num_occupants,>=6,0.474,0.417
+Figure_70,kWh/h,01:00,both,num_occupants,No data,0.211,0.195
+Figure_70,kWh/h,01:30,both,num_occupants,1,0.128,0.119
+Figure_70,kWh/h,01:30,both,num_occupants,2,0.215,0.317
+Figure_70,kWh/h,01:30,both,num_occupants,3,0.267,0.392
+Figure_70,kWh/h,01:30,both,num_occupants,4,0.358,0.514
+Figure_70,kWh/h,01:30,both,num_occupants,5,0.418,0.515
+Figure_70,kWh/h,01:30,both,num_occupants,>=6,0.435,0.405
+Figure_70,kWh/h,01:30,both,num_occupants,No data,0.198,0.186
+Figure_70,kWh/h,02:00,both,num_occupants,1,0.123,0.115
+Figure_70,kWh/h,02:00,both,num_occupants,2,0.205,0.295
+Figure_70,kWh/h,02:00,both,num_occupants,3,0.252,0.387
+Figure_70,kWh/h,02:00,both,num_occupants,4,0.339,0.498
+Figure_70,kWh/h,02:00,both,num_occupants,5,0.399,0.498
+Figure_70,kWh/h,02:00,both,num_occupants,>=6,0.409,0.381
+Figure_70,kWh/h,02:00,both,num_occupants,No data,0.186,0.171
+Figure_70,kWh/h,02:30,both,num_occupants,1,0.12,0.108
+Figure_70,kWh/h,02:30,both,num_occupants,2,0.201,0.281
+Figure_70,kWh/h,02:30,both,num_occupants,3,0.244,0.373
+Figure_70,kWh/h,02:30,both,num_occupants,4,0.326,0.471
+Figure_70,kWh/h,02:30,both,num_occupants,5,0.391,0.491
+Figure_70,kWh/h,02:30,both,num_occupants,>=6,0.386,0.381
+Figure_70,kWh/h,02:30,both,num_occupants,No data,0.181,0.168
+Figure_70,kWh/h,03:00,both,num_occupants,1,0.116,0.101
+Figure_70,kWh/h,03:00,both,num_occupants,2,0.195,0.277
+Figure_70,kWh/h,03:00,both,num_occupants,3,0.232,0.342
+Figure_70,kWh/h,03:00,both,num_occupants,4,0.326,0.529
+Figure_70,kWh/h,03:00,both,num_occupants,5,0.38,0.524
+Figure_70,kWh/h,03:00,both,num_occupants,>=6,0.371,0.382
+Figure_70,kWh/h,03:00,both,num_occupants,No data,0.175,0.163
+Figure_70,kWh/h,03:30,both,num_occupants,1,0.114,0.096
+Figure_70,kWh/h,03:30,both,num_occupants,2,0.191,0.255
+Figure_70,kWh/h,03:30,both,num_occupants,3,0.22,0.304
+Figure_70,kWh/h,03:30,both,num_occupants,4,0.311,0.493
+Figure_70,kWh/h,03:30,both,num_occupants,5,0.368,0.521
+Figure_70,kWh/h,03:30,both,num_occupants,>=6,0.365,0.363
+Figure_70,kWh/h,03:30,both,num_occupants,No data,0.172,0.159
+Figure_70,kWh/h,04:00,both,num_occupants,1,0.112,0.092
+Figure_70,kWh/h,04:00,both,num_occupants,2,0.186,0.232
+Figure_70,kWh/h,04:00,both,num_occupants,3,0.21,0.267
+Figure_70,kWh/h,04:00,both,num_occupants,4,0.299,0.454
+Figure_70,kWh/h,04:00,both,num_occupants,5,0.356,0.51
+Figure_70,kWh/h,04:00,both,num_occupants,>=6,0.348,0.329
+Figure_70,kWh/h,04:00,both,num_occupants,No data,0.17,0.155
+Figure_70,kWh/h,04:30,both,num_occupants,1,0.111,0.088
+Figure_70,kWh/h,04:30,both,num_occupants,2,0.181,0.203
+Figure_70,kWh/h,04:30,both,num_occupants,3,0.203,0.226
+Figure_70,kWh/h,04:30,both,num_occupants,4,0.284,0.39
+Figure_70,kWh/h,04:30,both,num_occupants,5,0.345,0.479
+Figure_70,kWh/h,04:30,both,num_occupants,>=6,0.337,0.27
+Figure_70,kWh/h,04:30,both,num_occupants,No data,0.171,0.157
+Figure_70,kWh/h,05:00,both,num_occupants,1,0.111,0.083
+Figure_70,kWh/h,05:00,both,num_occupants,2,0.177,0.181
+Figure_70,kWh/h,05:00,both,num_occupants,3,0.195,0.175
+Figure_70,kWh/h,05:00,both,num_occupants,4,0.266,0.316
+Figure_70,kWh/h,05:00,both,num_occupants,5,0.322,0.404
+Figure_70,kWh/h,05:00,both,num_occupants,>=6,0.33,0.231
+Figure_70,kWh/h,05:00,both,num_occupants,No data,0.173,0.154
+Figure_70,kWh/h,05:30,both,num_occupants,1,0.114,0.086
+Figure_70,kWh/h,05:30,both,num_occupants,2,0.18,0.168
+Figure_70,kWh/h,05:30,both,num_occupants,3,0.198,0.147
+Figure_70,kWh/h,05:30,both,num_occupants,4,0.265,0.277
+Figure_70,kWh/h,05:30,both,num_occupants,5,0.318,0.343
+Figure_70,kWh/h,05:30,both,num_occupants,>=6,0.33,0.241
+Figure_70,kWh/h,05:30,both,num_occupants,No data,0.184,0.169
+Figure_70,kWh/h,06:00,both,num_occupants,1,0.122,0.092
+Figure_70,kWh/h,06:00,both,num_occupants,2,0.191,0.158
+Figure_70,kWh/h,06:00,both,num_occupants,3,0.209,0.151
+Figure_70,kWh/h,06:00,both,num_occupants,4,0.278,0.26
+Figure_70,kWh/h,06:00,both,num_occupants,5,0.322,0.306
+Figure_70,kWh/h,06:00,both,num_occupants,>=6,0.344,0.248
+Figure_70,kWh/h,06:00,both,num_occupants,No data,0.201,0.187
+Figure_70,kWh/h,06:30,both,num_occupants,1,0.138,0.113
+Figure_70,kWh/h,06:30,both,num_occupants,2,0.216,0.18
+Figure_70,kWh/h,06:30,both,num_occupants,3,0.249,0.188
+Figure_70,kWh/h,06:30,both,num_occupants,4,0.318,0.258
+Figure_70,kWh/h,06:30,both,num_occupants,5,0.364,0.301
+Figure_70,kWh/h,06:30,both,num_occupants,>=6,0.427,0.352
+Figure_70,kWh/h,06:30,both,num_occupants,No data,0.209,0.179
+Figure_70,kWh/h,07:00,both,num_occupants,1,0.158,0.134
+Figure_70,kWh/h,07:00,both,num_occupants,2,0.247,0.195
+Figure_70,kWh/h,07:00,both,num_occupants,3,0.297,0.213
+Figure_70,kWh/h,07:00,both,num_occupants,4,0.376,0.266
+Figure_70,kWh/h,07:00,both,num_occupants,5,0.427,0.338
+Figure_70,kWh/h,07:00,both,num_occupants,>=6,0.473,0.328
+Figure_70,kWh/h,07:00,both,num_occupants,No data,0.232,0.187
+Figure_70,kWh/h,07:30,both,num_occupants,1,0.183,0.144
+Figure_70,kWh/h,07:30,both,num_occupants,2,0.295,0.232
+Figure_70,kWh/h,07:30,both,num_occupants,3,0.355,0.244
+Figure_70,kWh/h,07:30,both,num_occupants,4,0.468,0.331
+Figure_70,kWh/h,07:30,both,num_occupants,5,0.51,0.371
+Figure_70,kWh/h,07:30,both,num_occupants,>=6,0.57,0.361
+Figure_70,kWh/h,07:30,both,num_occupants,No data,0.279,0.223
+Figure_70,kWh/h,08:00,both,num_occupants,1,0.201,0.143
+Figure_70,kWh/h,08:00,both,num_occupants,2,0.331,0.239
+Figure_70,kWh/h,08:00,both,num_occupants,3,0.387,0.233
+Figure_70,kWh/h,08:00,both,num_occupants,4,0.502,0.312
+Figure_70,kWh/h,08:00,both,num_occupants,5,0.555,0.354
+Figure_70,kWh/h,08:00,both,num_occupants,>=6,0.595,0.362
+Figure_70,kWh/h,08:00,both,num_occupants,No data,0.311,0.228
+Figure_70,kWh/h,08:30,both,num_occupants,1,0.222,0.157
+Figure_70,kWh/h,08:30,both,num_occupants,2,0.366,0.243
+Figure_70,kWh/h,08:30,both,num_occupants,3,0.405,0.234
+Figure_70,kWh/h,08:30,both,num_occupants,4,0.501,0.286
+Figure_70,kWh/h,08:30,both,num_occupants,5,0.562,0.338
+Figure_70,kWh/h,08:30,both,num_occupants,>=6,0.627,0.377
+Figure_70,kWh/h,08:30,both,num_occupants,No data,0.335,0.225
+Figure_70,kWh/h,09:00,both,num_occupants,1,0.229,0.144
+Figure_70,kWh/h,09:00,both,num_occupants,2,0.38,0.232
+Figure_70,kWh/h,09:00,both,num_occupants,3,0.408,0.217
+Figure_70,kWh/h,09:00,both,num_occupants,4,0.494,0.263
+Figure_70,kWh/h,09:00,both,num_occupants,5,0.553,0.308
+Figure_70,kWh/h,09:00,both,num_occupants,>=6,0.628,0.388
+Figure_70,kWh/h,09:00,both,num_occupants,No data,0.349,0.224
+Figure_70,kWh/h,09:30,both,num_occupants,1,0.229,0.136
+Figure_70,kWh/h,09:30,both,num_occupants,2,0.385,0.219
+Figure_70,kWh/h,09:30,both,num_occupants,3,0.417,0.219
+Figure_70,kWh/h,09:30,both,num_occupants,4,0.509,0.268
+Figure_70,kWh/h,09:30,both,num_occupants,5,0.575,0.316
+Figure_70,kWh/h,09:30,both,num_occupants,>=6,0.654,0.394
+Figure_70,kWh/h,09:30,both,num_occupants,No data,0.355,0.221
+Figure_70,kWh/h,10:00,both,num_occupants,1,0.227,0.131
+Figure_70,kWh/h,10:00,both,num_occupants,2,0.383,0.211
+Figure_70,kWh/h,10:00,both,num_occupants,3,0.423,0.223
+Figure_70,kWh/h,10:00,both,num_occupants,4,0.511,0.262
+Figure_70,kWh/h,10:00,both,num_occupants,5,0.585,0.338
+Figure_70,kWh/h,10:00,both,num_occupants,>=6,0.661,0.39
+Figure_70,kWh/h,10:00,both,num_occupants,No data,0.359,0.227
+Figure_70,kWh/h,10:30,both,num_occupants,1,0.223,0.134
+Figure_70,kWh/h,10:30,both,num_occupants,2,0.378,0.205
+Figure_70,kWh/h,10:30,both,num_occupants,3,0.421,0.211
+Figure_70,kWh/h,10:30,both,num_occupants,4,0.508,0.253
+Figure_70,kWh/h,10:30,both,num_occupants,5,0.589,0.34
+Figure_70,kWh/h,10:30,both,num_occupants,>=6,0.675,0.388
+Figure_70,kWh/h,10:30,both,num_occupants,No data,0.353,0.226
+Figure_70,kWh/h,11:00,both,num_occupants,1,0.219,0.128
+Figure_70,kWh/h,11:00,both,num_occupants,2,0.371,0.2
+Figure_70,kWh/h,11:00,both,num_occupants,3,0.421,0.214
+Figure_70,kWh/h,11:00,both,num_occupants,4,0.504,0.248
+Figure_70,kWh/h,11:00,both,num_occupants,5,0.586,0.327
+Figure_70,kWh/h,11:00,both,num_occupants,>=6,0.681,0.376
+Figure_70,kWh/h,11:00,both,num_occupants,No data,0.347,0.229
+Figure_70,kWh/h,11:30,both,num_occupants,1,0.217,0.123
+Figure_70,kWh/h,11:30,both,num_occupants,2,0.365,0.193
+Figure_70,kWh/h,11:30,both,num_occupants,3,0.419,0.214
+Figure_70,kWh/h,11:30,both,num_occupants,4,0.505,0.247
+Figure_70,kWh/h,11:30,both,num_occupants,5,0.584,0.324
+Figure_70,kWh/h,11:30,both,num_occupants,>=6,0.684,0.373
+Figure_70,kWh/h,11:30,both,num_occupants,No data,0.342,0.231
+Figure_70,kWh/h,12:00,both,num_occupants,1,0.217,0.122
+Figure_70,kWh/h,12:00,both,num_occupants,2,0.369,0.2
+Figure_70,kWh/h,12:00,both,num_occupants,3,0.425,0.22
+Figure_70,kWh/h,12:00,both,num_occupants,4,0.511,0.249
+Figure_70,kWh/h,12:00,both,num_occupants,5,0.595,0.319
+Figure_70,kWh/h,12:00,both,num_occupants,>=6,0.689,0.377
+Figure_70,kWh/h,12:00,both,num_occupants,No data,0.349,0.234
+Figure_70,kWh/h,12:30,both,num_occupants,1,0.228,0.132
+Figure_70,kWh/h,12:30,both,num_occupants,2,0.385,0.206
+Figure_70,kWh/h,12:30,both,num_occupants,3,0.437,0.228
+Figure_70,kWh/h,12:30,both,num_occupants,4,0.529,0.251
+Figure_70,kWh/h,12:30,both,num_occupants,5,0.616,0.321
+Figure_70,kWh/h,12:30,both,num_occupants,>=6,0.704,0.402
+Figure_70,kWh/h,12:30,both,num_occupants,No data,0.357,0.238
+Figure_70,kWh/h,13:00,both,num_occupants,1,0.231,0.133
+Figure_70,kWh/h,13:00,both,num_occupants,2,0.389,0.205
+Figure_70,kWh/h,13:00,both,num_occupants,3,0.438,0.223
+Figure_70,kWh/h,13:00,both,num_occupants,4,0.532,0.249
+Figure_70,kWh/h,13:00,both,num_occupants,5,0.623,0.329
+Figure_70,kWh/h,13:00,both,num_occupants,>=6,0.715,0.418
+Figure_70,kWh/h,13:00,both,num_occupants,No data,0.369,0.247
+Figure_70,kWh/h,13:30,both,num_occupants,1,0.226,0.125
+Figure_70,kWh/h,13:30,both,num_occupants,2,0.378,0.201
+Figure_70,kWh/h,13:30,both,num_occupants,3,0.429,0.219
+Figure_70,kWh/h,13:30,both,num_occupants,4,0.525,0.247
+Figure_70,kWh/h,13:30,both,num_occupants,5,0.621,0.326
+Figure_70,kWh/h,13:30,both,num_occupants,>=6,0.703,0.382
+Figure_70,kWh/h,13:30,both,num_occupants,No data,0.371,0.26
+Figure_70,kWh/h,14:00,both,num_occupants,1,0.217,0.121
+Figure_70,kWh/h,14:00,both,num_occupants,2,0.359,0.192
+Figure_70,kWh/h,14:00,both,num_occupants,3,0.415,0.22
+Figure_70,kWh/h,14:00,both,num_occupants,4,0.508,0.243
+Figure_70,kWh/h,14:00,both,num_occupants,5,0.606,0.323
+Figure_70,kWh/h,14:00,both,num_occupants,>=6,0.694,0.382
+Figure_70,kWh/h,14:00,both,num_occupants,No data,0.357,0.257
+Figure_70,kWh/h,14:30,both,num_occupants,1,0.21,0.121
+Figure_70,kWh/h,14:30,both,num_occupants,2,0.348,0.187
+Figure_70,kWh/h,14:30,both,num_occupants,3,0.404,0.214
+Figure_70,kWh/h,14:30,both,num_occupants,4,0.496,0.239
+Figure_70,kWh/h,14:30,both,num_occupants,5,0.597,0.321
+Figure_70,kWh/h,14:30,both,num_occupants,>=6,0.69,0.379
+Figure_70,kWh/h,14:30,both,num_occupants,No data,0.352,0.263
+Figure_70,kWh/h,15:00,both,num_occupants,1,0.208,0.121
+Figure_70,kWh/h,15:00,both,num_occupants,2,0.346,0.186
+Figure_70,kWh/h,15:00,both,num_occupants,3,0.401,0.216
+Figure_70,kWh/h,15:00,both,num_occupants,4,0.49,0.24
+Figure_70,kWh/h,15:00,both,num_occupants,5,0.583,0.305
+Figure_70,kWh/h,15:00,both,num_occupants,>=6,0.68,0.366
+Figure_70,kWh/h,15:00,both,num_occupants,No data,0.348,0.261
+Figure_70,kWh/h,15:30,both,num_occupants,1,0.21,0.122
+Figure_70,kWh/h,15:30,both,num_occupants,2,0.352,0.192
+Figure_70,kWh/h,15:30,both,num_occupants,3,0.406,0.213
+Figure_70,kWh/h,15:30,both,num_occupants,4,0.492,0.248
+Figure_70,kWh/h,15:30,both,num_occupants,5,0.581,0.315
+Figure_70,kWh/h,15:30,both,num_occupants,>=6,0.677,0.361
+Figure_70,kWh/h,15:30,both,num_occupants,No data,0.355,0.278
+Figure_70,kWh/h,16:00,both,num_occupants,1,0.217,0.123
+Figure_70,kWh/h,16:00,both,num_occupants,2,0.363,0.203
+Figure_70,kWh/h,16:00,both,num_occupants,3,0.424,0.223
+Figure_70,kWh/h,16:00,both,num_occupants,4,0.523,0.258
+Figure_70,kWh/h,16:00,both,num_occupants,5,0.609,0.33
+Figure_70,kWh/h,16:00,both,num_occupants,>=6,0.715,0.373
+Figure_70,kWh/h,16:00,both,num_occupants,No data,0.37,0.282
+Figure_70,kWh/h,16:30,both,num_occupants,1,0.233,0.131
+Figure_70,kWh/h,16:30,both,num_occupants,2,0.394,0.218
+Figure_70,kWh/h,16:30,both,num_occupants,3,0.463,0.243
+Figure_70,kWh/h,16:30,both,num_occupants,4,0.584,0.299
+Figure_70,kWh/h,16:30,both,num_occupants,5,0.659,0.338
+Figure_70,kWh/h,16:30,both,num_occupants,>=6,0.765,0.409
+Figure_70,kWh/h,16:30,both,num_occupants,No data,0.399,0.305
+Figure_70,kWh/h,17:00,both,num_occupants,1,0.257,0.147
+Figure_70,kWh/h,17:00,both,num_occupants,2,0.443,0.245
+Figure_70,kWh/h,17:00,both,num_occupants,3,0.52,0.278
+Figure_70,kWh/h,17:00,both,num_occupants,4,0.66,0.334
+Figure_70,kWh/h,17:00,both,num_occupants,5,0.727,0.351
+Figure_70,kWh/h,17:00,both,num_occupants,>=6,0.819,0.436
+Figure_70,kWh/h,17:00,both,num_occupants,No data,0.433,0.326
+Figure_70,kWh/h,17:30,both,num_occupants,1,0.29,0.172
+Figure_70,kWh/h,17:30,both,num_occupants,2,0.504,0.273
+Figure_70,kWh/h,17:30,both,num_occupants,3,0.584,0.305
+Figure_70,kWh/h,17:30,both,num_occupants,4,0.735,0.354
+Figure_70,kWh/h,17:30,both,num_occupants,5,0.815,0.385
+Figure_70,kWh/h,17:30,both,num_occupants,>=6,0.883,0.465
+Figure_70,kWh/h,17:30,both,num_occupants,No data,0.482,0.354
+Figure_70,kWh/h,18:00,both,num_occupants,1,0.311,0.188
+Figure_70,kWh/h,18:00,both,num_occupants,2,0.542,0.297
+Figure_70,kWh/h,18:00,both,num_occupants,3,0.628,0.325
+Figure_70,kWh/h,18:00,both,num_occupants,4,0.783,0.365
+Figure_70,kWh/h,18:00,both,num_occupants,5,0.853,0.405
+Figure_70,kWh/h,18:00,both,num_occupants,>=6,0.919,0.49
+Figure_70,kWh/h,18:00,both,num_occupants,No data,0.494,0.357
+Figure_70,kWh/h,18:30,both,num_occupants,1,0.319,0.184
+Figure_70,kWh/h,18:30,both,num_occupants,2,0.546,0.295
+Figure_70,kWh/h,18:30,both,num_occupants,3,0.629,0.303
+Figure_70,kWh/h,18:30,both,num_occupants,4,0.796,0.376
+Figure_70,kWh/h,18:30,both,num_occupants,5,0.853,0.409
+Figure_70,kWh/h,18:30,both,num_occupants,>=6,0.947,0.499
+Figure_70,kWh/h,18:30,both,num_occupants,No data,0.492,0.354
+Figure_70,kWh/h,19:00,both,num_occupants,1,0.313,0.178
+Figure_70,kWh/h,19:00,both,num_occupants,2,0.533,0.297
+Figure_70,kWh/h,19:00,both,num_occupants,3,0.611,0.304
+Figure_70,kWh/h,19:00,both,num_occupants,4,0.775,0.376
+Figure_70,kWh/h,19:00,both,num_occupants,5,0.847,0.415
+Figure_70,kWh/h,19:00,both,num_occupants,>=6,0.935,0.469
+Figure_70,kWh/h,19:00,both,num_occupants,No data,0.493,0.349
+Figure_70,kWh/h,19:30,both,num_occupants,1,0.3,0.174
+Figure_70,kWh/h,19:30,both,num_occupants,2,0.505,0.284
+Figure_70,kWh/h,19:30,both,num_occupants,3,0.588,0.298
+Figure_70,kWh/h,19:30,both,num_occupants,4,0.747,0.362
+Figure_70,kWh/h,19:30,both,num_occupants,5,0.836,0.417
+Figure_70,kWh/h,19:30,both,num_occupants,>=6,0.924,0.465
+Figure_70,kWh/h,19:30,both,num_occupants,No data,0.485,0.346
+Figure_70,kWh/h,20:00,both,num_occupants,1,0.284,0.165
+Figure_70,kWh/h,20:00,both,num_occupants,2,0.471,0.264
+Figure_70,kWh/h,20:00,both,num_occupants,3,0.564,0.28
+Figure_70,kWh/h,20:00,both,num_occupants,4,0.726,0.365
+Figure_70,kWh/h,20:00,both,num_occupants,5,0.804,0.404
+Figure_70,kWh/h,20:00,both,num_occupants,>=6,0.895,0.452
+Figure_70,kWh/h,20:00,both,num_occupants,No data,0.465,0.324
+Figure_70,kWh/h,20:30,both,num_occupants,1,0.271,0.156
+Figure_70,kWh/h,20:30,both,num_occupants,2,0.443,0.244
+Figure_70,kWh/h,20:30,both,num_occupants,3,0.537,0.264
+Figure_70,kWh/h,20:30,both,num_occupants,4,0.695,0.356
+Figure_70,kWh/h,20:30,both,num_occupants,5,0.78,0.393
+Figure_70,kWh/h,20:30,both,num_occupants,>=6,0.863,0.439
+Figure_70,kWh/h,20:30,both,num_occupants,No data,0.44,0.31
+Figure_70,kWh/h,21:00,both,num_occupants,1,0.261,0.155
+Figure_70,kWh/h,21:00,both,num_occupants,2,0.424,0.254
+Figure_70,kWh/h,21:00,both,num_occupants,3,0.511,0.271
+Figure_70,kWh/h,21:00,both,num_occupants,4,0.667,0.368
+Figure_70,kWh/h,21:00,both,num_occupants,5,0.759,0.396
+Figure_70,kWh/h,21:00,both,num_occupants,>=6,0.847,0.434
+Figure_70,kWh/h,21:00,both,num_occupants,No data,0.42,0.299
+Figure_70,kWh/h,21:30,both,num_occupants,1,0.252,0.157
+Figure_70,kWh/h,21:30,both,num_occupants,2,0.406,0.245
+Figure_70,kWh/h,21:30,both,num_occupants,3,0.484,0.268
+Figure_70,kWh/h,21:30,both,num_occupants,4,0.633,0.359
+Figure_70,kWh/h,21:30,both,num_occupants,5,0.735,0.405
+Figure_70,kWh/h,21:30,both,num_occupants,>=6,0.818,0.425
+Figure_70,kWh/h,21:30,both,num_occupants,No data,0.402,0.287
+Figure_70,kWh/h,22:00,both,num_occupants,1,0.239,0.156
+Figure_70,kWh/h,22:00,both,num_occupants,2,0.382,0.236
+Figure_70,kWh/h,22:00,both,num_occupants,3,0.453,0.259
+Figure_70,kWh/h,22:00,both,num_occupants,4,0.594,0.344
+Figure_70,kWh/h,22:00,both,num_occupants,5,0.698,0.414
+Figure_70,kWh/h,22:00,both,num_occupants,>=6,0.784,0.431
+Figure_70,kWh/h,22:00,both,num_occupants,No data,0.377,0.285
+Figure_70,kWh/h,22:30,both,num_occupants,1,0.223,0.148
+Figure_70,kWh/h,22:30,both,num_occupants,2,0.36,0.228
+Figure_70,kWh/h,22:30,both,num_occupants,3,0.424,0.257
+Figure_70,kWh/h,22:30,both,num_occupants,4,0.55,0.337
+Figure_70,kWh/h,22:30,both,num_occupants,5,0.66,0.424
+Figure_70,kWh/h,22:30,both,num_occupants,>=6,0.752,0.488
+Figure_70,kWh/h,22:30,both,num_occupants,No data,0.341,0.257
+Figure_70,kWh/h,23:00,both,num_occupants,1,0.201,0.144
+Figure_70,kWh/h,23:00,both,num_occupants,2,0.322,0.222
+Figure_70,kWh/h,23:00,both,num_occupants,3,0.383,0.252
+Figure_70,kWh/h,23:00,both,num_occupants,4,0.494,0.32
+Figure_70,kWh/h,23:00,both,num_occupants,5,0.602,0.42
+Figure_70,kWh/h,23:00,both,num_occupants,>=6,0.695,0.478
+Figure_70,kWh/h,23:00,both,num_occupants,No data,0.308,0.244
+Figure_70,kWh/h,23:30,both,num_occupants,1,0.178,0.133
+Figure_70,kWh/h,23:30,both,num_occupants,2,0.28,0.206
+Figure_70,kWh/h,23:30,both,num_occupants,3,0.337,0.233
+Figure_70,kWh/h,23:30,both,num_occupants,4,0.439,0.309
+Figure_70,kWh/h,23:30,both,num_occupants,5,0.538,0.41
+Figure_70,kWh/h,23:30,both,num_occupants,>=6,0.626,0.477
+Figure_70,kWh/h,23:30,both,num_occupants,No data,0.278,0.24
+Figure_72,kWh/h,00:00,weekday,,,0.263,0.27
+Figure_72,kWh/h,00:00,weekend,,,0.267,0.263
+Figure_72,kWh/h,00:30,weekday,,,0.237,0.265
+Figure_72,kWh/h,00:30,weekend,,,0.25,0.272
+Figure_72,kWh/h,01:00,weekday,,,0.239,0.35
+Figure_72,kWh/h,01:00,weekend,,,0.249,0.347
+Figure_72,kWh/h,01:30,weekday,,,0.225,0.346
+Figure_72,kWh/h,01:30,weekend,,,0.234,0.344
+Figure_72,kWh/h,02:00,weekday,,,0.214,0.33
+Figure_72,kWh/h,02:00,weekend,,,0.222,0.331
+Figure_72,kWh/h,02:30,weekday,,,0.208,0.316
+Figure_72,kWh/h,02:30,weekend,,,0.214,0.315
+Figure_72,kWh/h,03:00,weekday,,,0.203,0.323
+Figure_72,kWh/h,03:00,weekend,,,0.208,0.319
+Figure_72,kWh/h,03:30,weekday,,,0.197,0.3
+Figure_72,kWh/h,03:30,weekend,,,0.2,0.297
+Figure_72,kWh/h,04:00,weekday,,,0.191,0.277
+Figure_72,kWh/h,04:00,weekend,,,0.194,0.273
+Figure_72,kWh/h,04:30,weekday,,,0.186,0.243
+Figure_72,kWh/h,04:30,weekend,,,0.187,0.243
+Figure_72,kWh/h,05:00,weekday,,,0.181,0.206
+Figure_72,kWh/h,05:00,weekend,,,0.18,0.207
+Figure_72,kWh/h,05:30,weekday,,,0.184,0.187
+Figure_72,kWh/h,05:30,weekend,,,0.18,0.188
+Figure_72,kWh/h,06:00,weekday,,,0.197,0.186
+Figure_72,kWh/h,06:00,weekend,,,0.185,0.172
+Figure_72,kWh/h,06:30,weekday,,,0.228,0.213
+Figure_72,kWh/h,06:30,weekend,,,0.202,0.182
+Figure_72,kWh/h,07:00,weekday,,,0.269,0.239
+Figure_72,kWh/h,07:00,weekend,,,0.222,0.191
+Figure_72,kWh/h,07:30,weekday,,,0.326,0.292
+Figure_72,kWh/h,07:30,weekend,,,0.259,0.213
+Figure_72,kWh/h,08:00,weekday,,,0.353,0.28
+Figure_72,kWh/h,08:00,weekend,,,0.298,0.236
+Figure_72,kWh/h,08:30,weekday,,,0.368,0.269
+Figure_72,kWh/h,08:30,weekend,,,0.343,0.252
+Figure_72,kWh/h,09:00,weekday,,,0.366,0.245
+Figure_72,kWh/h,09:00,weekend,,,0.374,0.259
+Figure_72,kWh/h,09:30,weekday,,,0.365,0.237
+Figure_72,kWh/h,09:30,weekend,,,0.398,0.269
+Figure_72,kWh/h,10:00,weekday,,,0.361,0.234
+Figure_72,kWh/h,10:00,weekend,,,0.409,0.272
+Figure_72,kWh/h,10:30,weekday,,,0.354,0.229
+Figure_72,kWh/h,10:30,weekend,,,0.414,0.273
+Figure_72,kWh/h,11:00,weekday,,,0.348,0.224
+Figure_72,kWh/h,11:00,weekend,,,0.413,0.271
+Figure_72,kWh/h,11:30,weekday,,,0.343,0.22
+Figure_72,kWh/h,11:30,weekend,,,0.413,0.271
+Figure_72,kWh/h,12:00,weekday,,,0.346,0.224
+Figure_72,kWh/h,12:00,weekend,,,0.419,0.277
+Figure_72,kWh/h,12:30,weekday,,,0.36,0.231
+Figure_72,kWh/h,12:30,weekend,,,0.434,0.284
+Figure_72,kWh/h,13:00,weekday,,,0.364,0.231
+Figure_72,kWh/h,13:00,weekend,,,0.437,0.283
+Figure_72,kWh/h,13:30,weekday,,,0.357,0.226
+Figure_72,kWh/h,13:30,weekend,,,0.427,0.278
+Figure_72,kWh/h,14:00,weekday,,,0.342,0.22
+Figure_72,kWh/h,14:00,weekend,,,0.411,0.272
+Figure_72,kWh/h,14:30,weekday,,,0.333,0.216
+Figure_72,kWh/h,14:30,weekend,,,0.399,0.266
+Figure_72,kWh/h,15:00,weekday,,,0.331,0.215
+Figure_72,kWh/h,15:00,weekend,,,0.394,0.261
+Figure_72,kWh/h,15:30,weekday,,,0.335,0.22
+Figure_72,kWh/h,15:30,weekend,,,0.397,0.262
+Figure_72,kWh/h,16:00,weekday,,,0.352,0.234
+Figure_72,kWh/h,16:00,weekend,,,0.405,0.267
+Figure_72,kWh/h,16:30,weekday,,,0.386,0.259
+Figure_72,kWh/h,16:30,weekend,,,0.434,0.284
+Figure_72,kWh/h,17:00,weekday,,,0.437,0.292
+Figure_72,kWh/h,17:00,weekend,,,0.473,0.31
+Figure_72,kWh/h,17:30,weekday,,,0.498,0.324
+Figure_72,kWh/h,17:30,weekend,,,0.518,0.332
+Figure_72,kWh/h,18:00,weekday,,,0.538,0.347
+Figure_72,kWh/h,18:00,weekend,,,0.543,0.344
+Figure_72,kWh/h,18:30,weekday,,,0.546,0.344
+Figure_72,kWh/h,18:30,weekend,,,0.543,0.342
+Figure_72,kWh/h,19:00,weekday,,,0.535,0.343
+Figure_72,kWh/h,19:00,weekend,,,0.526,0.334
+Figure_72,kWh/h,19:30,weekday,,,0.513,0.332
+Figure_72,kWh/h,19:30,weekend,,,0.502,0.325
+Figure_72,kWh/h,20:00,weekday,,,0.487,0.321
+Figure_72,kWh/h,20:00,weekend,,,0.476,0.31
+Figure_72,kWh/h,20:30,weekday,,,0.463,0.304
+Figure_72,kWh/h,20:30,weekend,,,0.452,0.295
+Figure_72,kWh/h,21:00,weekday,,,0.444,0.307
+Figure_72,kWh/h,21:00,weekend,,,0.433,0.297
+Figure_72,kWh/h,21:30,weekday,,,0.425,0.298
+Figure_72,kWh/h,21:30,weekend,,,0.415,0.29
+Figure_72,kWh/h,22:00,weekday,,,0.4,0.287
+Figure_72,kWh/h,22:00,weekend,,,0.391,0.281
+Figure_72,kWh/h,22:30,weekday,,,0.375,0.281
+Figure_72,kWh/h,22:30,weekend,,,0.366,0.27
+Figure_72,kWh/h,23:00,weekday,,,0.336,0.269
+Figure_72,kWh/h,23:00,weekend,,,0.333,0.259
+Figure_72,kWh/h,23:30,weekday,,,0.295,0.253
+Figure_72,kWh/h,23:30,weekend,,,0.295,0.241

@@ -1,0 +1,32 @@
+appliance,name,category,ownership,linked_to,cycle_power_W,standby_W,annual_kWh_CREST,ECUK_type,ECUK_change_2010_to_2022
+CHEST_FREEZER,Chest freezer,Cold,0.163,LEVEL,190.0,0.0,271.1,COLD - chest freezer,0.552
+FRIDGE_FREEZER,Fridge freezer,Cold,0.651,LEVEL,190.0,0.0,426.1,COLD - fridge-freezer,0.68
+FRIDGE,Refrigerator,Cold,0.43,LEVEL,110.0,0.0,201.8,COLD - refrigerator,0.638
+UPRIGHT_FREEZER,Upright freezer,Cold,0.291,LEVEL,155.0,0.0,316.0,COLD - upright freezer,0.579
+ANSWER_MACHINE,Answer machine,Consumer Electronics + ICT,0.9,ACTIVE_OCC,0.0,1.0,8.8,,
+CD_PLAYER,Cassette / CD Player,Consumer Electronics + ICT,0.9,ACTIVE_OCC,15.0,2.0,33.3,,
+CLOCK,Clock,Consumer Electronics + ICT,0.9,LEVEL,0.0,2.0,17.5,,
+PHONE,Cordless telephone,Consumer Electronics + ICT,0.9,ACTIVE_OCC,0.0,1.0,8.8,,
+HIFI,Hi-Fi,Consumer Electronics + ICT,0.9,ACTIVE_OCC,100.0,9.0,88.8,,
+IRON,Iron,Consumer Electronics + ICT,0.9,ACT_IRON,1000.0,0.0,17.7,,
+VACUUM,Vacuum,Consumer Electronics + ICT,0.937,ACT_HOUSECLEAN,2000.0,0.0,73.6,OTHER - vacuum cleaners,0.54
+FAX,Fax,Consumer Electronics + ICT,0.2,ACTIVE_OCC,37.0,3.0,29.7,,
+PC,Personal computer,Consumer Electronics + ICT,0.708,ACTIVE_OCC,140.7,5.0,348.6,COMPUTERS - desktop,0.662
+PRINTER,Printer,Consumer Electronics + ICT,0.665,ACTIVE_OCC,335.2,4.0,49.5,COMPUTERS - printers,0.569
+TV1,TV 1,Consumer Electronics + ICT,0.977,ACT_TV,124.0,3.0,241.8,PRIMARY TV - LCD,0.359
+TV2,TV 2,Consumer Electronics + ICT,0.58,ACT_TV,124.0,3.0,241.8,SECONDARY TV - LCD,0.536
+TV3,TV 3,Consumer Electronics + ICT,0.18,ACT_TV,124.0,2.0,243.4,SECONDARY TV - LCD,0.536
+VCR_DVD,VCR / DVD,Consumer Electronics + ICT,0.896,ACT_TV,33.6,2.0,73.7,,
+RECEIVER,TV Receiver box,Consumer Electronics + ICT,0.934,ACT_TV,26.8,15.0,152.5,,
+HOB,Hob,Cooking,0.463,ACT_COOKING,2400.0,1.0,276.1,COOKING - electric hob,0.778
+OVEN,Oven,Cooking,0.616,ACT_COOKING,2125.0,3.0,236.2,COOKING - electric oven,0.803
+MICROWAVE,Microwave,Cooking,0.859,ACT_COOKING,1250.0,2.0,76.6,COOKING - microwave,0.899
+KETTLE,Kettle,Cooking,0.975,ACTIVE_OCC,2000.0,1.0,160.7,COOKING - kettle,0.997
+SMALL_COOKING,Small cooking (group),Cooking,1.0,ACT_COOKING,1000.0,2.0,32.1,,
+DISH_WASHER,Dish washer,Wet,0.335,ACT_COOKING,1130.6,0.0,273.0,WET - dishwasher,0.787
+TUMBLE_DRYER,Tumble dryer,Wet,0.416,ACT_LAUNDRY,2500.0,1.0,313.8,,
+WASHING_MACHINE,Washing machine,Wet,0.781,ACT_LAUNDRY,405.5,1.0,191.0,WET - washing machine,0.827
+WASHER_DRYER,Washer dryer,Wet,0.153,ACT_LAUNDRY,792.0,1.0,520.2,,
+DESWH,DESWH,Water heating,0.17,ACTIVE_OCC,3000.0,0.0,2685.0,,
+E_INST,E-INST,Water heating,0.01,ACTIVE_OCC,3000.0,0.0,1802.2,,
+ELEC_SHOWER,Electric shower,Water heating,0.67,ACT_WASHDRESS,9000.0,0.0,130.7,,
