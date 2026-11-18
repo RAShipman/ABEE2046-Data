@@ -194,7 +194,7 @@ def measured_hourly(home):
     home: a home label, such as 'Home 22'
     Returns a pandas Series. A few hours have no reading; these are left empty (NaN).
     """
-    table = pd.read_csv(f"{DATA_URL}/Household_Electricity_2022_Hourly_Phase1.csv", index_col=0, parse_dates=True)
+    table = pd.read_csv(f"{DATA_URL}/Household_Electricity_2022_Hourly.csv", index_col=0, parse_dates=True)
     if home not in table.columns:
         raise ValueError(f"No measurements for {home!r}. Use a label such as 'Home 22'.")
     return table[home]

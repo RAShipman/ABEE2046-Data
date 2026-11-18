@@ -12,8 +12,13 @@ Data and model files for the ABEE2046 Smart Energy and the Built Environment wor
 | `Trent_Basin_Irradiance_2022_Hourly.csv` | Global horizontal irradiance at Trent Basin, Nottingham, every hour of 2022 (UTC) | Week 1 (lighting), Week 3 (solar PV) |
 | `Evidence_SERL_2022.csv` | Average household electricity use in Great Britain in 2022, by number of people and by time of day | Week 1 |
 | `Home_Circuits_2022_Monthly.csv` | Measured electricity of 13 Trent Basin homes in each month of 2022, by end use: lighting, cooking (oven and hob), sockets, other and total | Week 2 |
-| `Household_Electricity_2022_Hourly_Phase1.csv` | Measured electricity of the same 13 homes in each hour of 2022 (UTC) | Week 2 |
-| `Site_Electricity_Demand_2022_Hourly.csv` | Baseline electricity demand of the homes in each hour of 2022 (UTC), from the metered homes: Phase 1 (45 homes) and Phases 1 and 2 (76 homes) | Week 2 onwards, Coursework 3 |
+| `Household_Electricity_2022_Hourly.csv` | Measured electricity of 13 Trent Basin homes in each hour of 2022 (UTC) | Week 1 |
+| `Household_Details.csv` | Number of bedrooms of those 13 homes | Week 1 |
+| `Site_Electricity_Demand_2022_Hourly.csv` | Baseline electricity demand of the homes in each hour of 2022 (UTC), from the metered homes, scaled up to the 31 homes on the site | Week 2 onwards |
+| `Home_Heat_2022_Daily.csv` | Two Trent Basin houses, each day of 2022 (UTC): space heating and hot water from their heat meters, electricity, indoor and outdoor temperature, sunshine | Week 2 |
+| `Home_Heat_2022_Hourly.csv` | One of those houses (Home 12), each hour of 2022 (UTC): the same columns. Its meter counts in whole kWh, so use it averaged over many days | Week 2 |
+| `Site_Heat_2022_Daily.csv` | The 31 homes' space heating and hot water each day of 2022, pooled from the homes with heat meters and scaled by floor area, with temperatures, electricity and sunshine; days with no meter readings are filled from a model and marked | Week 2 onwards |
+| `Site_Heat_2022_Hourly.csv` | The same, hour by hour (the shape of each day comes from the heat meters, averaged over homes) | Week 2 onwards |
 
 All times are UTC, as for smart meter data.
 
